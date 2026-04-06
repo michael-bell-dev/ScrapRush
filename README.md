@@ -1,12 +1,28 @@
 ## ScrapRush ##
 
-ScrapRush is a roguelike first-person shooter video game with unlimited weapon customizability.
- With over 100 bullet types and weapon modifiers, up to 15 slots in each weapon, and 6 different
- weapon types, there are over 1 decillion possible weapons to discover.
+ScrapRush is a roguelike first-person shooter game with unlimited weapon customizability.
+ With 160+ stackable modifiers and bullet types, there are decillions of weapons for players to discover.
+ ScrapRush is a fast-paced action game centered around creative combat and experimentation with the mechanics.
 
-Main branch is currently mid map-generation algorithm modifications so the map does not generate correctly.
+ScrapRush is built in Unreal Engine, designed around system interaction over scripted outcomes. Instead of fixed solutions, the game allows emergent strategies,
+player-driven problem solving, and unexpected interactions between mechanics.
 
-![Logo](./ExampleImages/Logo.webp?raw=true)
-![Logo](./ExampleImages/ComplexWeapons.webp?raw=true)
-![Logo](./ExampleImages/Destruction.webp?raw=true)
-![Logo](./ExampleImages/ManyTwins.webp?raw=true)
+## Current Status ##
+
+ScrapRush is currently in active development. Features and mechanics are subject to change as systems are refined and expanded.
+
+Implemented features:
+- Complex weapon system with full player control
+- Over 100 bullet types/modifiers for combat, defence, utility, and more
+- Enemy AI
+- Damage system with multiple damage types (projectile, fire, poison, etc.)
+- Randomized map generation
+- Original art + music
+
+Future plans:
+- Passive effects
+- Additional environmental systems
+- Upgrades to map
+- More enemy types, weapons, and bullet types/modifiers
+- Polish to visuals/audio
+- Implementing story elements
